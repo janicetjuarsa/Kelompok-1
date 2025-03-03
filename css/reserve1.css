@@ -98,8 +98,8 @@ a{
   .seat-red {
     background-color: red;
   }
-  .seat-red:hover {
-    background-color: green;
+  .seat-green:hover {
+    background-color: red;
   }
   
   /* Kursi Hijau (bisa hover ke warna lain jika mau) */
